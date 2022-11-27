@@ -12,7 +12,7 @@ function createPassword(){
         displayPasswords(getFifteenDigitAlphaNumericCode())
     }
     else {
-        alert("Pleae choose an option from drop-down")
+        alert("Please choose an option from drop-down")
     }
 }
 
